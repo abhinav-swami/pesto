@@ -1,5 +1,7 @@
 # Task Manager App
 
+`Used Nodejs v16.19.0 while development`
+
 ## Overview
 
 This is a task management application with a frontend developed using React and a backend API developed with Node.js and Express, MongoDB as database.  
