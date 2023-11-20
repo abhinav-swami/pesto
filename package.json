@@ -1,0 +1,28 @@
+{
+  "name": "pesto-todo",
+  "version": "1.0.0",
+  "description": "TODO application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav-swami/pesto.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "abhinav-swami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav-swami/pesto/issues"
+  },
+  "homepage": "https://github.com/abhinav-swami/pesto#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
